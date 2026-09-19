@@ -27,4 +27,4 @@ This repository contains the documents submitted as part of my C++ Programming I
 
 ## Certificate Status
 
-The official Internship Completion Certificate will be uploaded after it is issued by Thiranex on 18 September 2026.
+The C++ Programming Internship at Thiranex has been successfully completed, and the official Internship Completion Certificate has been included in this repository.
